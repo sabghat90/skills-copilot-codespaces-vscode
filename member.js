@@ -5,5 +5,6 @@ function skillsMember() {
         controller: 'MemberController',
         controllerAs: 'memberCtrl',
         bindToController: true,
+        
     }
 }
